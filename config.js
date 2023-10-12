@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;s3ATzQoZ#hA_fvD0tlPQDUsyULeew5sCobapQ-o9eAYY09Km8S-4' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://xxxxx_qig9_user:58WytQ39diTLmQc6TuVvzZqQyiEhJIbT@dpg-ckb7n0pkms5s73d7nc7g-a.oregon-postgres.render.com/xxxxx_qig9'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '254796283064'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'CONFRONTER'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -51,13 +51,13 @@ global.FOOTER = 'Queen Nilu 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
-global.PREFIX = '.' // Bot Prefix
+global.PREFIX = '>' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = 'I am alive now😇' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
@@ -80,9 +80,9 @@ global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = false
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
 global.VOICE_REPLY = true
 
